@@ -12,4 +12,8 @@ class SiteController extends Controller
     {
         return "000";
     }
+    public function C()
+    {
+        return "000";
+    }
 }
